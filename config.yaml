@@ -1,0 +1,34 @@
+baseurl: 'https://www.prof18.com'
+languageCode: en-us
+title: Marco Gomiero
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+disableHugoGeneratorInject: true
+pluralizeListTitles: false
+pygmentsCodeFences: false
+pygmentsUseClasses: false
+minify: true
+paginate: 9999
+disableKinds:
+  - section
+  - categories
+  - tags
+
+params:
+  description: "Software Engineer · Google Developer Expert for Kotlin"
+
+frontmatter:
+  author: Marco Gomiero
+  github: 'https://github.com/prof18'
+  og_image: /profile-small.webp
+  sitename: Marco Gomiero
+  twitter: '@marcoGomier'
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+
+
+
+
